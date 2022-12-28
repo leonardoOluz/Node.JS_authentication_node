@@ -1,0 +1,11 @@
+{
+  "name": "nodeauthjwt",
+  "version": "1.0.0",
+  "description": "Node Authentication JWT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonardo Luz",
+  "license": "ISC"
+}
