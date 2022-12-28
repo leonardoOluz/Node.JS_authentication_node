@@ -1,7 +1,5 @@
 /* Imports dos framework e lib em uso no projeto */
-import dotenv from 'dotenv';
-import express, { response } from 'express';
-import mongoose from 'mongoose';
+import express from 'express';
 import bcrypt from 'bcrypt';
 import jwt from 'jsonwebtoken';
 import db from './src/config/dbConnect.js';
